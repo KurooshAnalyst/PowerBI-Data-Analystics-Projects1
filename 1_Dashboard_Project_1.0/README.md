@@ -98,16 +98,16 @@ Data sources may include structured CSV, Excel, or database exports (depending o
 
 **5.** Interact with slicers, visuals, and drill-through navigation
 ## 🖼 Screenshots
-![Data Start Schema](0_resources/images/Data_star_schema-1.png)
+![Data Start Schema](0_resources/images/Data_star_schema.png)
 
 
 
-![Page 1 Preview](0_resources/images/Project1_Dashboard_Overview-1.gif)
+![Page 1 Preview](0_resources/images/Project1_Dashboard_Overview.gif)
 
 
 
 
-![Page 1 Photo](0_resources/images/Project1_Dashboard_Page1.gif)
+![Page 1 Photo](0_resources/images/Project1_Dashboard_Page2.gif)
 
 
 ## 📈 Insights Summary
