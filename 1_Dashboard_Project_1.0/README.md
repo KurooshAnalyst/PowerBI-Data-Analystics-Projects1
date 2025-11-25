@@ -11,7 +11,7 @@ The dashboard includes two pages:
 
 **2.Drill-Through Page – A detailed view allowing users to analyze specific items selected from the main page.**
 
-### 🚀 Features & Capabilities
+## 🚀 Features & Capabilities
 
 - Interactive data visualizations using charts, cards, and tables
 
@@ -29,7 +29,7 @@ The dashboard includes two pages:
 
 - Clean and intuitive layout focused on actionable insights
 
-### 📂 Dataset Details
+## 📂 Dataset Details
 
 The dataset was imported and transformed using Power Query. Key steps include:
 
@@ -55,7 +55,7 @@ The dataset was imported and transformed using Power Query. Key steps include:
 
 Data sources may include structured CSV, Excel, or database exports (depending on the version of the project uploaded).
 
-### 🧭 How It Works
+## 🧭 How It Works
 ### Main Dashboard
 
 - Provides a complete overview of the dataset through KPIs, charts, and summary visuals
@@ -64,13 +64,13 @@ Data sources may include structured CSV, Excel, or database exports (depending o
 
 - Clicking specific elements triggers drill-through actions
 
-### Drill-Through Page
+## Drill-Through Page
 
 - Displays detailed information about a selected data point (e.g., category, product, region)
 
 - Designed for deeper analysis and supporting root-cause investigation
 
-### 🛠 Technical Stack
+## 🛠 Technical Stack
 
 - **Power BI Desktop**
 
@@ -84,16 +84,42 @@ Data sources may include structured CSV, Excel, or database exports (depending o
 
     - Power BI Service (for publishing)
 
-### 📥 Setup Instructions
+## 📥 Setup Instructions
 
-1. Download the project file:
+**1.** Download the project file:
 2_dashboard_project.pbix
 
-2. Open the file using **Power BI Desktop** (latest version recommended)
+**2.** Open the file using **Power BI Desktop** (latest version recommended)
 
-3. If a data source path is required, update it using:
+**3.** If a data source path is required, update it using:
 **Home → Transform Data → Data Source Settings**
-4. Refresh the report:
+**4.** Refresh the report:
 **Home → Refresh**
 
-5. Interact with slicers, visuals, and drill-through navigation
+**5.** Interact with slicers, visuals, and drill-through navigation
+## 🖼 Screenshots
+![Data Start Schema](Data_star_schema-1.png)
+
+![Page 1 Preview](Project1_Dashboard_Overview-1.gif)
+
+![Page 1 Photo](Project1_Dashboard_Page1.gif)
+
+![Drill Through](Project1_Dashboard_Page2.gif)
+
+## 📈 Insights Summary
+
+- Key insights discovered from the analysis may include:
+
+- Identification of high-performing categories and underperforming segments
+
+- Trends and seasonality patterns within the business data
+
+- Breakdown of performance by time, category, customer type, or region
+
+- Drill-through results that highlight root causes behind anomalies
+
+- Opportunities for optimization based on visualized KPIs
+## 📄 License
+
+This project is released under the MIT License.
+Feel free to use, modify, and distribute the content.
