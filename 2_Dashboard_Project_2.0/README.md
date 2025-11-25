@@ -142,10 +142,10 @@ Optional: Power BI Service for publishing
 
 **5.** Use toggle buttons at the bottom of each chart to switch metrics.
 ## 🖼 Screenshots
-![Dashboard Salary Gif](Project2_Dashboard_Overview.gif)
+![Salary Dashboard Gif](1_resources/images/Project2_Dashboard_Overview.gif)
 
-![Salary Dashbord Preview](Project2_Dashboard_Page1.png)
 
+![Salary Dashboard Preview](1_resources/images/Project2_Dashboard_Page1.png)
 ## 📈 Insights Summary
 
 This dashboard provides insights such as:
