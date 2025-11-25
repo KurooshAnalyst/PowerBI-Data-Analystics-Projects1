@@ -1,5 +1,5 @@
-📊 Power BI Dashboard Project
-📘 Project Description
+#📊 Power BI Dashboard Project
+##📘 Project Description
 
 This Power BI project presents a comprehensive, interactive dashboard designed to analyze key business performance indicators.
 The report aims to help decision-makers quickly understand trends, identify operational bottlenecks, and monitor essential metrics.
@@ -11,7 +11,7 @@ Main Dashboard – A high-level overview of all major KPIs and visuals.
 
 Drill-Through Page – A detailed view allowing users to analyze specific items selected from the main page.
 
-🚀 Features & Capabilities
+###🚀 Features & Capabilities
 
 Interactive data visualizations using charts, cards, and tables
 
@@ -29,7 +29,7 @@ Automated data modeling and relationship management
 
 Clean and intuitive layout focused on actionable insights
 
-📂 Dataset Details
+###📂 Dataset Details
 
 The dataset was imported and transformed using Power Query. Key steps include:
 
@@ -55,7 +55,7 @@ Calculated columns for categorization and segmentation
 
 Data sources may include structured CSV, Excel, or database exports (depending on the version of the project uploaded).
 
-🧭 How It Works
+###🧭 How It Works
 Main Dashboard
 
 Provides a complete overview of the dataset through KPIs, charts, and summary visuals
@@ -84,7 +84,7 @@ DAX Studio
 
 Power BI Service (for publishing)
 
-📥 Setup Instructions
+###📥 Setup Instructions
 
 Download the project file:
 2_dashboard_project.pbix
